@@ -37,6 +37,19 @@ Currículum en un solo HTML. Cabecera con nombre y contacto, skills, educación 
 
 Proyecto: [Single Page CV](https://roadmap.sh/projects/single-page-cv)
 
+## Tabla de comparación de precios
+
+Página de una sola tabla que compara planes de suscripción. Sin CSS: la estructura y la accesibilidad de la tabla son el objetivo.
+
+- **Header:** marca y navegación.
+- **Main:** título y tabla de planes (Free, Pro y Business) con almacenamiento, proyectos y soporte.
+- **Footer:** copyright.
+- **Tabla:** `caption`, `thead` y `tbody`. Los encabezados de columna usan `scope="col"` y el nombre de cada plan usa `scope="row"`. Una fila con `colspan` indica que todos los planes incluyen SSL y copias diarias.
+
+- `HTML/pricin-comparison-table.html` — la página de la tabla.
+
+Proyecto: [Pricing Comparison Table](https://roadmap.sh/projects/pricing-comparison-table)
+
 ## Repositorio
 
 [github.com/gondev94/roadmap.sh-practice](https://github.com/gondev94/roadmap.sh-practice)
