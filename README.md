@@ -50,6 +50,23 @@ Página de una sola tabla que compara planes de suscripción. Sin CSS: la estruc
 
 Proyecto: [Pricing Comparison Table](https://roadmap.sh/projects/pricing-comparison-table)
 
+## Entrada de blog
+
+Dos páginas de artículo, sin CSS. El objetivo es elegir la etiqueta según el significado del texto.
+
+- **Header:** nombre del sitio y navegación.
+- **Main:** título, fecha, párrafos, lista, cita, ejemplo de código y un enlace para seguir leyendo.
+- **Figure:** imagen con `alt` y `figcaption`.
+- **Footer:** copyright.
+- **Head:** `title`, `charset`, `viewport` y una `description` que resume la publicación.
+
+- `HTML/blog-post-page.html` — publicación sobre HTML semántico.
+- `HTML/blog.html` — publicación sobre esports y Counter-Strike.
+- `HTML/mountain-icon-simple-thin-outline_1223784-3557.avif` — imagen del artículo de HTML semántico.
+- `HTML/images.jpg` — imagen del artículo de Counter-Strike.
+
+Proyecto: [Semantic HTML](https://roadmap.sh/projects/semantic-html)
+
 ## Repositorio
 
 [github.com/gondev94/roadmap.sh-practice](https://github.com/gondev94/roadmap.sh-practice)
