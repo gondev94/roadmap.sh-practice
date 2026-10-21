@@ -67,6 +67,20 @@ Dos páginas de artículo, sin CSS. El objetivo es elegir la etiqueta según el 
 
 Proyecto: [Semantic HTML](https://roadmap.sh/projects/blog-post-page)
 
+
+## Formulario de contacto
+
+Página de soporte de Acme, sin CSS y sin JavaScript. El objetivo es el formulario que el navegador convierte en una petición: cada control tiene `name`, una etiqueta asociada y la validación nativa.
+
+- **Header:** marca y navegación (Home, Help, Contact).
+- **Main:** título, una frase y el formulario.
+- **Formulario:** `action` con una URL de marcador y `method="post"`. Nombre y correo obligatorios, asunto en un `select` con tres opciones, mensaje en un `textarea` con `minlength`, radios dentro de un `fieldset` con `legend` y un checkbox opcional de novedades.
+- **Footer:** copyright.
+- **Head:** `title`, `charset` y `viewport`.
+
+- `HTML/contacform.html` — la página del formulario.
+
+Proyecto: [Contact Form](https://roadmap.sh/projects/contact-form)
 ## Repositorio
 
 [github.com/gondev94/roadmap.sh-practice](https://github.com/gondev94/roadmap.sh-practice)
