@@ -65,7 +65,7 @@ Dos páginas de artículo, sin CSS. El objetivo es elegir la etiqueta según el 
 - `HTML/mountain-icon-simple-thin-outline_1223784-3557.avif` — imagen del artículo de HTML semántico.
 - `HTML/images.jpg` — imagen del artículo de Counter-Strike.
 
-Proyecto: [Semantic HTML](https://roadmap.sh/projects/semantic-html)
+Proyecto: [Semantic HTML](https://roadmap.sh/projects/blog-post-page)
 
 ## Repositorio
 
