@@ -26,4 +26,4 @@ Abre `single-page-cv.html` en el navegador. No hace falta instalar nada ni levan
 
 ## Proyecto
 
-https://github.com/gondev94/roadmap.sh-practice
+[https://github.com/gondev94/roadmap.sh-practice](https://roadmap.sh/projects/single-page-cv)
