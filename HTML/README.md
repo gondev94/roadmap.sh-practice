@@ -23,3 +23,4 @@ Abre `single-page-cv.html` en el navegador. No hace falta instalar nada ni levan
 
 - `single-page-cv.html` — la página del CV.
 - `favicon-32x32.png` — icono de la pestaña.
+
