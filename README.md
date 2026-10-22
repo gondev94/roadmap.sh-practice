@@ -83,4 +83,23 @@ Página de soporte de Acme, sin CSS y sin JavaScript. El objetivo es el formular
 Proyecto: [Contact Form](https://roadmap.sh/projects/contact-form)
 ## Repositorio
 
+## Colección de fotos
+
+Página de una colección sobre café, sin CSS. El objetivo es el marcado que decide cómo se carga, se describe y se anuncia el contenido multimedia.
+
+- **Header:** título, una frase y un icono decorativo con `alt=""`.
+- **Main:** seis fotos. Cada `img` tiene `src`, `alt`, `width` y `height`. Tres van dentro de `figure` con `figcaption`.
+- **Video:** `controls`, `poster` y un texto de reserva por si el navegador no reproduce el archivo.
+- **Footer:** la sección está presente, sin texto.
+- **Head:** `title`, `charset` y `viewport`, además de `description`, `author`, `keywords` y Open Graph.
+
+Archivos:
+
+- `HTML/photoshowcase.html` — la página.
+- `HTML/cafe01.jpg`, `HTML/cafe02.jpg`, `HTML/cafe03.jpg`, `HTML/cafe04.jpg`, `HTML/cafe05.jpg` y `HTML/cafe05.png` — las fotos.
+- `HTML/cafecito-video.mp4` — el vídeo.
+- `HTML/favicon-32x32.png` — icono decorativo y de la pestaña.
+
+Proyecto: [Photo Showcase](https://roadmap.sh/projects/photo-showcase)
+
 [github.com/gondev94/roadmap.sh-practice](https://github.com/gondev94/roadmap.sh-practice)
